@@ -8,7 +8,7 @@ Full Stack Software Developer
 
 
 * 🌍  I'm based in Sorocaba-SP, Brazil
-* ✉️  You can contact me at [buganza12@gmail.com](mailto:buganza12@gmail.com
+* ✉️  You can contact me at [buganza12@gmail.com] or WhatsApp 55 15 98140-6344
 * 🧠  I'm learning Advanced Javascript,HTML,CSS and Python
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Soccer
