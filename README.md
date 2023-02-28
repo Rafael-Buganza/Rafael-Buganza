@@ -24,4 +24,7 @@ src="https://img.shields.io/github/followers/Rafael-Buganza?logo=github&style=fo
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 
+ 
+##Badges##
+ [![rafael-buganza github stats] https://github-readme-stats.vercel.app/api?username=rafael-buganza&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
 
