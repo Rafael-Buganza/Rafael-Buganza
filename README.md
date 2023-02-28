@@ -29,3 +29,6 @@ src="https://img.shields.io/github/followers/Rafael-Buganza?logo=github&style=fo
   
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=rafael-buganza&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-buganza&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
+
