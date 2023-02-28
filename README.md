@@ -28,4 +28,4 @@ src="https://img.shields.io/github/followers/Rafael-Buganza?logo=github&style=fo
 ##Badges##
   
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=gui-loko&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=rafael-buganza&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
