@@ -6,6 +6,7 @@ Full Stack Software Developer
 
 "I am a beginner programmer with a keen interest in becoming a full stack developer. I am currently focusing on learning the basics of programming and web development, with knowledge in HTML, CSS, JavaScript and Python. I am seeking opportunities to expand my skills and knowledge in areas such as databases, servers, frameworks, and other technologies that make up full stack development. I am dedicated, curious, and always looking for new challenges to improve my skills and grow as a developer.
 
+
 * 🌍  I'm based in Sorocaba-SP, Brazil
 * ✉️  You can contact me at [buganza12@gmail.com](mailto:buganza12@gmail.com
 * 🧠  I'm learning Advanced Javascript,HTML,CSS and Python
@@ -29,7 +30,7 @@ https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoC
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=rafael-buganza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats%22%20/%3E%3C/a%3E
+<a href="https://github.com/rafael-buganza"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=rafael-buganza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats%22%20/%3E%3C/a%3E
 
 "https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Buganza&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true%22%20/%3E%3C/a%3E
 
