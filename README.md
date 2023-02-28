@@ -32,3 +32,7 @@ src="https://img.shields.io/github/followers/Rafael-Buganza?logo=github&style=fo
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-buganza&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/rafael-buganza)
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/rafael-buganza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
